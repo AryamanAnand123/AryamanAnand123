@@ -1,86 +1,72 @@
 
 <div align="center">
 
-# Hey, I'm Aryaman Anand 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:334155,100:6366f1&height=150&section=header" />
 
-### Software Developer | Python | AI & Backend Engineering
+# Aryaman Anand
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+things+that+solve+real+problems;Python+%7C+FastAPI+%7C+React;AI%2FML+and+Backend+Development;Always+learning.+Always+building." />
+Software Developer · Backend Engineering · AI/ML
+
+[LinkedIn](https://www.linkedin.com/in/aryaman-anand-2b2121305/) &nbsp;·&nbsp; [GitHub](https://github.com/AryamanAnand123)
+
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryaman-anand-2b2121305/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AryamanAnand123)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AryamanAnand/)
+### About
 
-</div>
+I'm a computer science student interested in backend engineering,
+machine learning, and building tools that solve practical problems.
 
----
+Lately, I've been exploring system design, LLM applications,
+and open-source development.
 
-## 👨‍💻 About Me
-
-I'm a software engineering student graduating in 2027, with a strong interest in backend development, AI/ML, and building practical software.
-
-- 🔭 Building AI-powered applications and developer tools
-- 🌱 Exploring system design, open source, and modern backend architecture
-- 🧠 Interested in RAG, LLMs, APIs, and machine learning
-- 🤝 Looking to collaborate on interesting open-source projects
-- ⚡ I enjoy turning ideas into working applications
-
-## 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" />
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,react,sklearn,tensorflow" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,sklearn,tensorflow&theme=dark" />
 
-**Tools & Platforms**
+**Tools & Databases**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postgres,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postgres,mysql,linux,vscode&theme=dark" />
 
-## 🚀 Featured Projects
+### Selected Projects
 
-### 📚 Cedar — Local Knowledge Assistant
-A local-first PDF assistant with hybrid retrieval, cited answers, FastAPI, React, pgvector, and Ollama.
+**[Cedar — Local Knowledge Assistant](https://github.com/AryamanAnand123/cedar-local-knowledge-assistant)**
 
-[View Repository](https://github.com/AryamanAnand123/cedar-local-knowledge-assistant)
+A local-first PDF assistant with hybrid retrieval, source-backed answers, and a React interface.
 
-### 🔍 Relay — API Change Auditor
-A developer tool for comparing OpenAPI contracts, detecting compatibility changes, and generating migration guidance.
+`Python` `FastAPI` `React` `pgvector` `Ollama`
 
-[View Repository](https://github.com/AryamanAnand123/relay-api-change-auditor)
+**[Relay — API Change Auditor](https://github.com/AryamanAnand123/relay-api-change-auditor)**
 
-### 🧬 Lung Cancer Chemotherapy Predictor
-A machine learning project for predicting clinical treatment outcomes using Python-based ML pipelines.
+Compares OpenAPI specifications, detects breaking changes, and generates migration guidance.
 
-[View Repository](https://github.com/AryamanAnand123/Lung-cancer-chemotherapy-mlp-predictor)
+`Python` `OpenAPI` `Developer Tools`
 
-### 🎵 Spotify to YouTube Music Migrator
-A migration tool for transferring music libraries with match review and resumable checkpoints.
+**[Lung Cancer Chemotherapy Predictor](https://github.com/AryamanAnand123/Lung-cancer-chemotherapy-mlp-predictor)**
 
-[View Repository](https://github.com/AryamanAnand123/Spotify-Yt-migrator)
+Machine learning models for predicting chemotherapy response and clinical outcomes.
 
-## 📊 GitHub Stats
+`Python` `XGBoost` `Scikit-learn`
 
-<div align="center">
+**[Spotify to YouTube Music Migrator](https://github.com/AryamanAnand123/Spotify-Yt-migrator)**
 
-<img src="https://github-readme-stats.vercel.app/api?username=AryamanAnand123&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+A tool for transferring music libraries between platforms, with track matching and resumable migration.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryamanAnand123&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+### Currently
 
-</div>
+- Learning more about system design and backend architecture
+- Exploring open-source contributions
+- Building personal projects and developer tools
 
 ---
 
 <div align="center">
-
-### Let's Connect!
-
-Always open to discussing software, AI, interesting ideas, and open-source collaboration.
-
-**Thanks for visiting! ⭐**
-
+  <sub>Thanks for stopping by.</sub>
 </div>
