@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&section=header&reversal=false&text=I+don%27t+know+what+i%27m+doing.&textBg=false&fontColor=F8FAFC&fontSize=54&fontAlign=49&fontAlignY=49&animation=scaleIn&rotate=0&stroke=818CF8&strokeWidth=10&descSize=20&descAlign=50&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&section=header&reversal=false&text=I+don%27t+know+what+i%27m+doing.&textBg=false&fontColor=F8FAFC&fontSize=30&fontAlign=49&fontAlignY=49&animation=scaleIn&rotate=0&stroke=818CF8&strokeWidth=10&descSize=20&descAlign=50&descAlignY=60" />
 
 # Aryaman Anand
 
