@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&section=header&reversal=false&text=I+don%27t+know+what+i%27m+doing.&textBg=false&fontColor=F8FAFC&fontSize=30&fontAlign=49&fontAlignY=49&animation=scaleIn&rotate=0&stroke=818CF8&strokeWidth=10&descSize=20&descAlign=50&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=timeGradient&section=header&text=I%20don%27t%20know%20what%20I%27m%20doing.&fontColor=F8FAFC&fontSize=23&fontAlign=50&fontAlignY=40&animation=scaleIn&stroke=818CF8&strokeWidth=1" />
 
 # Aryaman Anand
 
@@ -65,8 +65,17 @@ A tool for transferring music libraries between platforms, with track matching a
 - Exploring open-source contributions
 - Building personal projects and developer tools
 
+### GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AryamanAnand123)](https://github.com/stats-organization/github-stats-extended)
+
+</div>
+
 ---
 
 <div align="center">
   <sub>Thanks for stopping by.</sub>
 </div>
+
