@@ -69,7 +69,7 @@ A tool for transferring music libraries between platforms, with track matching a
 
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AryamanAnand123)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AryamanAnand123&show=prs_merged&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
